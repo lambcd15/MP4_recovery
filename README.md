@@ -5,6 +5,9 @@ Navigate to folder in command prompt (does not have to be admin)
 
 Add good uncorrupted file shot on same camera to folder that contains the above files
 
+Download and drag and drop ffmpeg into the folder that contains the camera files and teh recover_mp4.exe
+https://github.com/BtbN/FFmpeg-Builds/releases
+
 run 
 ```
 recover_mp4 uncorrupted_file --analyze
